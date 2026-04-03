@@ -2,6 +2,8 @@
 
 Re-implementation of SSD300 (Liu et al., ECCV 2016) trained on a 25k-image subset of MS-COCO val2014.
 
+Reference implementation: [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
+
 Tested on **Kaggle with 2× T4 GPUs** (~4000 iterations, batch size 8).
 
 ---
